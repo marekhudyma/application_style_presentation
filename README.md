@@ -1,3 +1,27 @@
+# Application style presentation
+
+In this repo you can find a presentation `Application style`
+It has been done with `reveal.js` framework. 
+
+# Commands 
+
+To run a presentation execute
+```
+npm start 
+```
+The presentation is visible under url:
+```
+http://localhost:8000/
+```
+
+If you really, really need a PDF version go to the page: 
+```
+http://localhost:8000/?print-pdf#/
+```
+Next, print to PDF. Do not expect beautiful results.
+
+# Standard doc from reveal.js
+
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text.svg" alt="reveal.js" width="450">
